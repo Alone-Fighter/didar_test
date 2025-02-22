@@ -1,0 +1,1 @@
+ D:\\project\\didar_test\\.dart_tool\\flutter_build\\744efdd260d248cde1431b1facabb461\\native_assets.yaml: 

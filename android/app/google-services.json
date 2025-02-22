@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262528004304",
+    "project_id": "didartest",
+    "storage_bucket": "didartest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262528004304:android:ba08dbe94b29aa7f77eed5",
+        "android_client_info": {
+          "package_name": "com.example.didar_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvvq8VRNjSlYUEAQSzXke8D_4H39ArAy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
